@@ -17,7 +17,7 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔹 Teknologi: Python, NLTK, TensorFlow
 - 🔹 Dataset: Sentimen Twitter Indonesia
 - 🔹 Model: LSTM (Long Short-Term Memory)
-- 🔹 Hasil: Akurasi **87%** pada data validasi
+- 🔹 Hasil: Akurasi **85%** pada data validasi
 - 🔗 [Lihat Proyek](projects/tweet-sentiment/README.md)
 
 ---
