@@ -1,4 +1,4 @@
-# 🚀 Portofolio Machine Learning & Data Science
+# 🚀 Portofolio Machine Learning
 
 Selamat datang di portofolio saya! 🎯
 Di sini, saya mengumpulkan proyek-proyek Machine Learning.
