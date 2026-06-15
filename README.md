@@ -26,7 +26,7 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔹 **Teknologi:** Python, Streamlit, Pandas, Scikit-Learn, Plotly
 - 🔹 **Fitur Utama:** Input parameter skor keahlian (pemrograman, analisis data, desain, dll.), prediksi target karier, dan dasbor eksplorasi data.
 - 🔹 **Hasil:** Model Machine Learning berhasil dibangun dan dilatih menggunakan 297 sampel data untuk mengklasifikasikan kecocokan karier seperti *Software Engineer, Data Analyst, UI/UX Designer*, dll.
-- 🔗 [Lihat Repositori](Catatan: Ganti tanda # dengan link repositori kamu nanti).
+- 🔗 [Lihat Repositori]((https://github.com/ML25-DadanRamdani/sistemrekomendasi-karier-knn/blob/64d9978e07c9279fb0069e5cc6c71f0d65e10984/README.md ).
 ---
 ## 🔧 Cara Menggunakan Kode
 1. Clone repo ini:
