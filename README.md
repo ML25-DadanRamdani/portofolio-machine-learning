@@ -21,13 +21,12 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔗 [Lihat Proyek](https://github.com/indahdwicitra/mentalhealth/tree/8a476b40e42fd45a922bc0dcdb8fa61ce23e80dd/Machine-Learning/Journal)
 
 ---
-### 📊 2. Analisis Data Peminjaman Sepeda
-**Deskripsi:** Dashboard interaktif dengan **Streamlit** untuk menganalisis pola peminjaman sepeda berdasarkan cuaca, waktu, dan musim.
-- 🔹 Teknologi: Python, Pandas, Streamlit, Seaborn
-- 🔹 Visualisasi: Grafik tren harian, pengaruh cuaca, heatmap peminjaman
-- 🔹 Hasil: Ditemukan pola peningkatan peminjaman di musim panas
-- 🔗 [Lihat Proyek](projects/bike-rental-analysis/README.md)
-
+### 📊 2.🎓 Sistem Rekomendasi Karier Berdasarkan Minat dan Keahlian
+**Deskripsi:** Aplikasi interaktif berbasis web untuk merekomendasikan jalur karier di bidang IT berdasarkan skor keahlian menggunakan algoritma **K-Nearest Neighbor (KNN)**.
+- 🔹 **Teknologi:** Python, Streamlit, Pandas, Scikit-Learn, Plotly
+- 🔹 **Fitur Utama:** Input parameter skor keahlian (pemrograman, analisis data, desain, dll.), prediksi target karier, dan dasbor eksplorasi data.
+- 🔹 **Hasil:** Model Machine Learning berhasil dibangun dan dilatih menggunakan 297 sampel data untuk mengklasifikasikan kecocokan karier seperti *Software Engineer, Data Analyst, UI/UX Designer*, dll.
+- 🔗 [Lihat Repositori](Catatan: Ganti tanda # dengan link repositori kamu nanti).
 ---
 ## 🔧 Cara Menggunakan Kode
 1. Clone repo ini:
