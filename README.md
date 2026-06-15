@@ -18,7 +18,7 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔹 Dataset: Sentimen Twitter Indonesia
 - 🔹 Model: LSTM (Long Short-Term Memory)
 - 🔹 Hasil: Akurasi **85%** pada data validasi
-- 🔗 [Lihat Proyek](Machine-Learning/Journal)
+- 🔗 [Lihat Proyek]([Machine-Learning/Journal](https://github.com/indahdwicitra/mentalhealth/tree/8a476b40e42fd45a922bc0dcdb8fa61ce23e80dd/Machine-Learning/Journal))
 
 ---
 ### 📊 2. Analisis Data Peminjaman Sepeda
