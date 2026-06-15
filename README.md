@@ -7,7 +7,7 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🎓 **Mahasiswa STMIK Mardira** dengan fokus pada **Machine Learning**
 - 🔍 Memiliki pengalaman dalam **NLP, Computer Vision**
 - 💻 Terampil dalam **Python, TensorFlow, Scikit-Learn, Pandas, Matplotlib**
-- 📧 Hubungi saya di: [Email Anda] | [LinkedIn Anda] | [GitHub Anda]
+- 📧 Hubungi saya di: dadanr161200@gmail.com
 
 ---
 ## 📂 Proyek-Proyek Saya
