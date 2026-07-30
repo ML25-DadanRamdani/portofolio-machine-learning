@@ -35,5 +35,6 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔹 **Fitur Utama:** Pembersihan data (*Data Wrangling*), visualisasi korelasi variabel cuaca, dan analisis tren penyewaan.
 - 🔹 **Hasil:** Memberikan rekomendasi berbasis data untuk mengoptimalkan ketersediaan sepeda sesuai cuaca dan strategi untuk meningkatkan konversi pengguna *casual* menjadi pengguna *registered*.
 - 🔗 [Lihat Proyek](https://github.com/username/nama-repo-bike-sharing)
+---
 
 Jika tertarik berkolaborasi atau berdiskusi, jangan ragu untuk menghubungi saya! 🚀
