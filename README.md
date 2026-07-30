@@ -28,22 +28,12 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 - 🔹 **Hasil:** Model Machine Learning berhasil dibangun dan dilatih menggunakan 297 sampel data untuk mengklasifikasikan kecocokan karier seperti *Software Engineer, Data Analyst, UI/UX Designer*, dll.
 - 🔗 [Lihat Proyek](https://github.com/ML25-DadanRamdani/sistemrekomendasi-karier-knn.git)
 ---
-## 🔧 Cara Menggunakan Kode
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/username/portofolio-machine-learning.git
-   cd portofolio-machine-learning
-   ```
-2. Instal dependensi:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Jalankan notebook atau script sesuai proyek.
-
----
-## 🎯 Rencana Ke Depan
-- 🚀 Meningkatkan model NLP untuk chatbot AI
-- 📈 Mengembangkan proyek Computer Vision dengan YOLO
-- 📝 Menulis blog tentang Data Science dan AI
+### 🚲 3. Analisis Data Penyewaan Sepeda (Bike Sharing)
+**Deskripsi:** Proyek *Exploratory Data Analysis* (EDA) mendalam untuk menggali *insight* bisnis dari dataset penyewaan sepeda. Analisis difokuskan pada dampak kondisi cuaca terhadap jumlah penyewaan dan perbedaan pola perilaku antara pengguna *casual* dan *registered*.
+- 🔹 **Teknologi:** Python, Pandas, Matplotlib, Seaborn
+- 🔹 **Dataset:** Bike-sharing-dataset (day.csv & hour.csv)
+- 🔹 **Fitur Utama:** Pembersihan data (*Data Wrangling*), visualisasi korelasi variabel cuaca, dan analisis tren penyewaan.
+- 🔹 **Hasil:** Memberikan rekomendasi berbasis data untuk mengoptimalkan ketersediaan sepeda sesuai cuaca dan strategi untuk meningkatkan konversi pengguna *casual* menjadi pengguna *registered*.
+- 🔗 [Lihat Proyek](https://github.com/username/nama-repo-bike-sharing)
 
 Jika tertarik berkolaborasi atau berdiskusi, jangan ragu untuk menghubungi saya! 🚀
