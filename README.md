@@ -15,8 +15,8 @@ Di sini, saya mengumpulkan proyek-proyek Machine Learning.
 ### 🤖 1. Deteksi Tingkat Stress dengan NLP
 **Deskripsi:** Model **Natural Language Processing (NLP)** untuk mengklasifikasikan sentimen tweet (positif, netral, negatif).
 - 🔹 Teknologi: Python, NLTK, TensorFlow
-- 🔹 Dataset: Sentimen Twitter Indonesia
-- 🔹 Model: LSTM (Long Short-Term Memory)
+- 🔹 Dataset: Kaggle
+- 🔹 Model: Natural Language Processing (NLP)
 - 🔹 Hasil: Akurasi **85%** pada data validasi
 - 🔗 [Lihat Proyek](https://github.com/indahdwicitra/mentalhealth/tree/8a476b40e42fd45a922bc0dcdb8fa61ce23e80dd/Machine-Learning/Journal)
 
